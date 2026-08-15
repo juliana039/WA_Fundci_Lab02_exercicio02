@@ -31,6 +31,4 @@ jobs:
       - name: Build code
         run: npm run build
       - name: Deploy code
-        run: echo "Deploying..."git add .github/workflows/build02.yml
-git commit -m "add build02 workflow"
-git push
+        run: echo "Deploying..."
